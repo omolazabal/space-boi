@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e689a7975efc7bf4698e7a5b163ae7eb
+timeCreated: 1492952808
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - death: {fileID: 8300000, guid: d54eddc57d4bce94fbf1c20812c3d2db, type: 3}
+  - jetPack: {fileID: 8300000, guid: d55db0ce096d39d44bf4141c69d8aa34, type: 3}
+  - coinCollect: {fileID: 8300000, guid: e664ece4ff3b34145b18ce24eba22b5a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

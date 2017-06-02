@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 999af08c3ab3b2c4ba518a0dedd7e659
+timeCreated: 1492937394
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Razed
+  fontNames:
+  - Razed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 04a64fb83821d734d9c91c8e598d78cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
